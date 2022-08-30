@@ -1,0 +1,8 @@
+{
+    "/backend/js/app.js": "/backend/js/app.js",
+    "/frontend/js/frontapp.js": "/frontend/js/frontapp.js",
+    "/global/bootstrap.css": "/global/bootstrap.css",
+    "/backend/css/custom.css": "/backend/css/custom.css",
+    "/frontend/css/custom.css": "/frontend/css/custom.css",
+    "/global/globalcustom.css": "/global/globalcustom.css"
+}
