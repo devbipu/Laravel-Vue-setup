@@ -30,7 +30,7 @@ This is full stack Laravel & Vue.js Blog website project developed by Biplob Sha
 
 ## Devleop by 
 <h3>Biplob Shaha</h3>
-- Facebook: https://facebook.com/devbipu.
-- Github: https://github.com/devbipu.
-- Linkedin: https://linkedin.com/in/devbipu.
+- <a href="https://facebook.com/devbipu">Facebook</a><br>
+- <a href="https://github.com/devbipu">Github</a><br>
+- <a href="https://linkedin.com/in/devbipu">Linkedin</a><br>
 
