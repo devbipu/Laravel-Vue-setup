@@ -1,6 +1,7 @@
 <h2 align="center"> 
-    Blog website with Laravel & Vue.js 
+    Laravel & Vue.js Setup
 </h2>
+<h5 align="center">Fontend & Banckend </h5>
 
 This is full stack Laravel & Vue.js Blog website project developed by Biplob Shaha. Admin panel & Frontend both are build with Vue js (spa) 
 
